@@ -1,7 +1,7 @@
 .navbar{
-    @apply w-full h-60;
+    @apply w-full h-[60px];
     .linksBlock{
-       @apply flex justify-end text-white text-4xl bg-slate-600;
+       @apply flex justify-end text-white text-4xl font-serif bg-gray-800 relative;
        
        .link{
         @apply mx-5;
